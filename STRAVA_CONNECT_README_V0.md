@@ -392,10 +392,10 @@ Please ensure your code adheres to the project's coding standards and includes a
 ## **Community and Support**
 
 For help, discussions, or contributions:
-- Join our [Discord channel](https://discord.gg/your-discord)
-- Open an issue on our [GitHub repository](https://github.com/your-username/strava-blockchain-integration/issues)
+- Join our [Discord channel](https://discord.gg/saMkNwZWaV)
+- Open an issue on our [GitHub repository](https://github.com/flowstake/strava-connect/issues)
 - Check out our [contribution guidelines](CONTRIBUTING.md)
-- Follow us on [Twitter](https://twitter.com/your-project-twitter) for updates
+- Follow us on [Twitter](https://twitter.com/flowstake) for updates
 
 ## **License**
 
