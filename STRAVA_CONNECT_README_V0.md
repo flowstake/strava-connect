@@ -4,7 +4,7 @@ Connect your Strava activities with Ethereum-compatible blockchains, enabling ne
 
 ## **Quick Start**
 
-1. Clone the repository: `git clone https://github.com/your-username/strava-blockchain-integration.git`
+1. Clone the repository: `git clone https://github.com/flowstake/strava-connect.git`
 2. Install dependencies: `npm install`
 3. Set up your environment variables in `.env`
 4. Deploy the smart contract: `npx hardhat run scripts/deploy.js --network goerli`
